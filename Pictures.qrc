@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pictures/ContList.png</file>
+        <file>Pictures/Corpse.png</file>
+        <file>Pictures/Cursed.png</file>
+        <file>Pictures/Demons.png</file>
+        <file>Pictures/Fears.png</file>
+        <file>Pictures/Genies.png</file>
+        <file>Pictures/Ghost.png</file>
+        <file>Pictures/Higher Demons.png</file>
+        <file>Pictures/Higher Spirits.png</file>
+        <file>Pictures/HouseHolder.png</file>
+        <file>Pictures/Humans.png</file>
+        <file>Pictures/Imps.png</file>
+        <file>Pictures/Lower Spirits.png</file>
+        <file>Pictures/Skeleton.png</file>
+        <file>Pictures/Souls.png</file>
+        <file>Pictures/Spirits.png</file>
+        <file>Pictures/Vampire.png</file>
+        <file>Pictures/Werewolf.png</file>
+    </qresource>
+</RCC>

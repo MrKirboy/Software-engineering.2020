@@ -1,0 +1,340 @@
+{
+  "1": {
+    "Name": "Humans",
+    "Category": 1,
+    "Upcategory": "List of Content",
+    "Description": "It's us, common humans. It is extremely hard to us to survive in this world of fears and souls. That's why we had to become stronger, to invent special weapons and powerful artifacts. We've been terrorized by those beasts, but now, as we've become stronger, this is more of a coexistance.",
+    "Enemies": [
+      "Fears"
+    ],
+    "Feed": [
+      "Vegetables and fruit",
+      "Meat and fish",
+      "Mushrooms"
+    ],
+    "Strengths": [
+      "Wide range of skills",
+      "Can use various weapons and artifacts"
+    ],
+    "Weaknesses": [
+      "Hunted by many types of beasts",
+      "Vulnerable by themselves"
+    ],
+    "Picture": ":/Pictures/Humans.png"
+  },
+
+  "2": {
+    "Name": "Souls",
+    "Category": 1,
+    "Upcategory": "List of Content",
+    "Subcategories": [
+      "Ghosts",
+      "House Holders",
+      "Genies",
+      "Spirits"
+    ],
+    "Description": "Incorporeal beings existing in this world but rarely seen. Called like that after the humans' belief that their physical bodies are only vessels for immortal souls (which is correct in this realm). Sometimes souls can possess material objects or even dead or alive creatures.",
+    "Picture": ":Pictures/Souls.png"
+  },
+
+  "3": {
+    "Name": "Ghosts",
+    "Category": 2,
+    "Upcategory": "Souls",
+    "Description": "Wondering soul of the deceased person. No one knows for sure, what's holding it from leaving the realm. Some say that ghosts stay here if they have unfolfilled businesses or some artifact bounds them. Mostly non-aggressive.",
+    "Enemies": [
+      ""
+    ],
+    "Feed": [
+      "Unknown..."
+    ],
+    "Strengths": [
+      "Ethereal",
+      "Can't be harmed with physical force",
+      "Can move through material objects"
+    ],
+    "Weaknesses": [
+      "Vulnerable to magic"
+    ],
+    "Picture": ":/Pictures/Ghost.png"
+  },
+
+  "4": {
+    "Name": "House Holders",
+    "Category": 2,
+    "Upcategory": "Souls",
+    "Description": "Often described as a little human, House Holder is actually a spirit that lives in a human houses, feeding on the positive energy and giving protection to the household instead. Some greater House Holders can even tame lower spirits to help them",
+    "Enemies": [
+      "Lower spirits"
+    ],
+    "Feed": [
+      "Positive energe of inhabits, food leftovers"
+    ],
+    "Strengths": [
+      "Grows stronger if home owners are good people and take care of the house"
+    ],
+    "Weaknesses": [
+      "Getting weaker in the bad house and leaves if things get worse"
+    ],
+    "Picture": ":/Pictures/HouseHolder.png"
+  },
+
+  "5": {
+    "Name": "Genies",
+    "Category": 2,
+    "Upcategory": "Souls",
+    "Description": "Widely known as Genie of the Lamp but actually can posses any vessel which can last long enough. Fulfills wishes of the summoner in exchange for their life essence. More wishes fulfilled - more essence is taken. Some of them will stop at three so they would't kill the person, but others can drain the summoner dry.",
+    "Enemies": [
+      ""
+    ],
+    "Feed": [
+      "Human's life essence"
+    ],
+    "Strengths": [
+      "Very powerful enchanters"
+    ],
+    "Weaknesses": [
+      "Bound to their vessel"
+    ],
+    "Picture": ":/Pictures/Genies.png"
+  },
+
+  "6": {
+      "Name": "Spirits",
+      "Category": 2,
+      "Upcategory": "Souls",
+      "Subcategories": [
+        "Higher Spirits",
+        "Lower Spirits"
+      ],
+      "Description": "Beings of the preterhuman origin. Rarely take physical form, only to scare someone of or, in the worst case, harm or kill the intruder. But if you come to their habitat with peace, they won't attack you",
+      "Picture": ":/Pictures/Spirits.png"
+  },
+
+  "7": {
+    "Name": "Higher Spirits",
+    "Category": 3,
+    "Upcategory": "Spirits",
+    "Description": "Most powerful spirits out there. Can use their natural magic to scare of intruders and to take care of the habitat. If you can please the higher spirit, they can help you when you're lost or give you a gift as a sign of the good will. But if you piss them off... Run and prey they won't follow you...",
+    "Enemies": [
+      "Fears"
+    ],
+    "Feed": [
+      "Natural sourses of power"
+    ],
+    "Strengths": [
+      "Masters of natural magic",
+      "Etherial"
+    ],
+    "Weaknesses": [
+      "Spiritual artifacts",
+      "Enchanted weapons"
+    ],
+    "Picture": ":/Pictures/Higher Spirits.png"
+  },
+
+  "8": {
+    "Name": "Lower Spirits",
+    "Category": 3,
+    "Upcategory": "Spirits",
+    "Description": "Weaaker type of spirits. Don't have enough energy to take clear form so mostly seen as wisps of fire or mist. Still, some of them are more powerful and can take even a physical form but it still won't be very strong. Even worst of them are hardly dangerous.",
+    "Enemies": [
+      "Fears"
+    ],
+    "Feed": [
+      "Natural sourses of power"
+    ],
+    "Strengths": [
+      "Etherial"
+    ],
+    "Weaknesses": [
+      "Spiritual artifacts",
+      "Enchanted weapons"
+    ],
+    "Picture": ":/Pictures/Lower Spirits.png"
+  },
+
+  "9": {
+    "Name": "Fears",
+    "Upcategory": "List of Content",
+    "Category": 1,
+    "Subcategories": [
+      "Demons",
+      "Cursed"
+    ],
+    "Description": "All the creatures which classified by humans as evil. Can be very dangerous so don't try to fight them without proper preparation. If you're not ready, it's better run and hide.",
+    "Picture": ":/Pictures/Fears.png"
+  },
+
+  "10": {
+    "Name": "Demons",
+    "Upcategory": "Fears",
+    "Category": 2,
+    "Subcategories": [
+      "Imps",
+      "Higher Demons"
+    ],
+    "Description": "Residents of the other realm we call \"The Underworld\". Not all of them are evil but most of those who come to this realm are. They come here for resources or cruel entertainment. But if the one you incounter has no dark intentions, you can get a powerful ally. But it's so rare you shouldn't even try.",
+    "Picture": ":/Pictures/Demons.png"
+  },
+
+  "11": {
+    "Name": "Imps",
+    "Category": 3,
+    "Upcategory": "Demons",
+    "Description": "Little hyperactive minions of the Lords of the UnderWorld. Bred to spred massive terror and destruction. Pretty weak by themselves but always attack in huge packs. Wield the fire magic, can throw fireballs.",
+    "Enemies": [
+      "Humans",
+      "Spirits"
+    ],
+    "Feed": [
+      "Anything organic"
+    ],
+    "Strengths": [
+      "Fight in packs",
+      "Fire magic",
+      "Able to fly"
+    ],
+    "Weaknesses": [
+      "Weak by themselves",
+      "Ice/Water magic and weapons"
+    ],
+    "Picture": ":/Pictures/Imps.png"
+  },
+
+  "12": {
+    "Name": "Higher Demons",
+    "Category": 3,
+    "Upcategory": "Demons",
+    "Description": "Higher demons or Demon Lords are aggresive and powerful beings. Strong warriors and sorcerers, but their power depends on the UnderWorlds energy so more time they spend here - weaker they become.",
+    "Enemies": [
+      "Humans",
+      "Spirits"
+    ],
+    "Feed": [
+      "UnderWorlds energy",
+      "Organic substances"
+    ],
+    "Strengths": [
+      "Strong warriors and sorcerers",
+      "Wield enchanted weapons and armor"
+    ],
+    "Weaknesses": [
+      "Weaken with time outside of UnderWorld",
+      "Enchanted weapons and artifacts"
+    ],
+    "Picture": ":/Pictures/Higher Demons.png"
+  },
+
+  "13": {
+    "Name": "Cursed",
+    "Upcategory": "Fears",
+    "Category": 2,
+    "Subcategories": [
+      "Vampires",
+      "Werewolfs",
+      "Corpses",
+      "Skeletons"
+    ],
+    "Description": "The cursed ones were people somewhen. But then, one way or another, fell under a curse. Some during their life. Some after it. The most common reasons of becoming the cursed one is encounter with powerful surcery or another victim of curse.  ",
+    "Picture": ":/Pictures/Cursed.png"
+  },
+
+  "14": {
+    "Name": "Werewolfs",
+    "Category": 3,
+    "Upcategory": "Cursed",
+    "Description": "Human, living under a curse of turning into a half-wolf creature every full moon. Only the most powerful mind can remain sane in this form, others become animal-like beasts until sunrise.  ",
+    "Enemies": [
+      "Vampires",
+      "Humans",
+      "Spirits"
+    ],
+    "Feed": [
+      "Meat (every kind they can find)"
+    ],
+    "Strengths": [
+      "Monstrous strength and speed of movement",
+      "Sharp claws and teeth"
+    ],
+    "Weaknesses": [
+      "Mind-protecting artifacts (keep from losing sanity)",
+      "Silver weapon"
+    ],
+    "Picture": ":/Pictures/Werewolf.png"
+  },
+
+  "15": {
+    "Name": "Vampires",
+    "Category": 3,
+    "Upcategory": "Cursed",
+    "Description": "The creature of the night. A human in previous life, now the cruel beast, feasting on the blood of people. Stay aware under the full moon as vampire's power grows at this time.",
+    "Enemies": [
+      "Werewolfs",
+      "Humans",
+      "Spirits"
+    ],
+    "Feed": [
+      "Blood (preferably human)"
+    ],
+    "Strengths": [
+      "Silent movement",
+      "Inhuman strength and agility",
+      "Dark sorcery"
+    ],
+    "Weaknesses": [
+      "Sunlight",
+      "Garlic extract",
+      "Silver weapon"
+    ],
+    "Picture": ":/Pictures/Vampire.png"
+  },
+
+  "16": {
+    "Name": "Corpses",
+    "Category": 3,
+    "Upcategory": "Cursed",
+    "Description": "Dead body, reanimated by dark sorcery. Corpse is as dangerous as powerful the sourse of its afterlife. In the hands of skillful necromancer it turns into a mighty, fearless soldier. But if life sourse is weak, it's rotting body will be pretty harmless.",
+    "Enemies": [
+      "Humans",
+      "Spirits"
+    ],
+    "Feed": [
+      "Sorcery"
+    ],
+    "Strengths": [
+      "Fight in packs",
+      "No fear or doubts",
+      "Don't need to eat or rest"
+    ],
+    "Weaknesses": [
+      "Useless after losing the source of power",
+      "Slow"
+    ],
+    "Picture": ":/Pictures/Corpse.png"
+  },
+
+  "17": {
+    "Name": "Skeletons",
+    "Category": 3,
+    "Upcategory": "Cursed",
+    "Description": "Due to a complete lack of muscles, it takes more effort to reanimate a skeleton than corpse, so it is a rare speciment even for a necromancers army. But they can be used as a method of intimidation/ It can cut down the morals of opposing army.",
+    "Enemies": [
+      "Humans",
+      "Spirits"
+    ],
+    "Feed": [
+      "Sorcery"
+    ],
+    "Strengths": [
+      "Intimidating",
+      "No fear or doubts",
+      "Don't need to eat or rest"
+    ],
+    "Weaknesses": [
+      "Useless after losing the source of power",
+      "Slow"
+    ],
+    "Picture": ":/Pictures/Skeleton.png"
+  }
+}

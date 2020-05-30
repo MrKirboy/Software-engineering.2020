@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Others/Back.png</file>
+        <file>Others/Cover.png</file>
+        <file>Others/ArrowLeft.png</file>
+        <file>Others/ArrowRight.png</file>
+        <file>Others/PicFrame.png</file>
+        <file>Others/ArrowContList.png</file>
+        <file>Others/ArrowList.png</file>
+        <file>Others/Cross.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>JSONs/Bestiary.json</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Close.wav</file>
+        <file>SwappingPage.wav</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>baseFont.ttf</file>
+        <file>fancyFont.ttf</file>
+        <file>baseFont2.ttf</file>
+        <file>baseFont4.ttf</file>
+        <file>baseFont5.ttf</file>
+    </qresource>
+</RCC>
